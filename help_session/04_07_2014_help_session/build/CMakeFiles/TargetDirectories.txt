@@ -1,0 +1,4 @@
+/home/beichen/Documents/ECE3574/04_07_2014_help_session/build/CMakeFiles/edit_cache.dir
+/home/beichen/Documents/ECE3574/04_07_2014_help_session/build/CMakeFiles/rebuild_cache.dir
+/home/beichen/Documents/ECE3574/04_07_2014_help_session/build/CMakeFiles/JSONExample.dir
+/home/beichen/Documents/ECE3574/04_07_2014_help_session/build/CMakeFiles/JSONExample_automoc.dir

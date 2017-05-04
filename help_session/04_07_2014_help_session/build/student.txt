@@ -1,0 +1,57 @@
+{
+    "firstname": "John",
+    "grades": [
+        {
+            "assigment": "AssignName",
+            "grade": 0,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 1,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 2,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 3,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 4,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 5,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 6,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 7,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 8,
+            "max_grade": 100
+        },
+        {
+            "assigment": "AssignName",
+            "grade": 9,
+            "max_grade": 100
+        }
+    ],
+    "id": 1,
+    "lastname": "Doe"
+}
